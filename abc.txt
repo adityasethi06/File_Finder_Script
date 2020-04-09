@@ -1,0 +1,2 @@
+But I would like an expression that I can place inside a simple if statement.
+Is there anything built-in which would make this code look less clumsy?
